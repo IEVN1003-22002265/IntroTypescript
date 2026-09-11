@@ -6,6 +6,7 @@ import './TemasTS/03-funciones.ts'
 import './TemasTS/04-desestructuración-obj-arre.ts'
 import './TemasTS/05-desestructuración-de-funciones.ts'
 import './TemasTS/06-importar-exportar.ts'
+import './TemasTS/07-clases.ts'
 
 import heroImg from './assets/hero.png'
 import typescriptLogo from './assets/typescript.svg'
